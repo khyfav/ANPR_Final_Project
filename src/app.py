@@ -19,7 +19,7 @@ st.caption(
     "CNN recognition → confidence routing"
 )
 
-MODEL_PATH = "../models/emnist_cnn_36.pt"
+MODEL_PATH = "/models/emnist_cnn_36.pt"
 
 st.sidebar.subheader("Model")
 st.sidebar.caption("36-class EMNIST CNN")
