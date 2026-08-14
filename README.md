@@ -1,4 +1,4 @@
-# ISM 6642 Final Project — ANPR Prototype
+# ISM 6642 Final Project - ANPR Prototype
 
 This starter repo implements a scoped Automated Number Plate Reader (ANPR) prototype for Meridian Access Systems.
 
